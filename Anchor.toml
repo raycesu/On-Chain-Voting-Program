@@ -1,0 +1,3 @@
+# Anchor workspace manifest.
+# Declares the voting program, cluster (localnet by default), wallet path, and test script.
+# Filled in when the program is implemented.
