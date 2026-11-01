@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.cargo.allTargets": true,
+  "rust-analyzer.checkOnSave": true,
+  "rust-analyzer.linkedProjects": ["${workspaceFolder}/Cargo.toml"]
+}

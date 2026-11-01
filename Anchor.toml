@@ -1,3 +1,9 @@
-# Anchor workspace manifest.
-# Declares the voting program, cluster (localnet by default), wallet path, and test script.
-# Filled in when the program is implemented.
+[toolchain]
+anchor_version = "1.1.2"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[programs.localnet]
+voting = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"

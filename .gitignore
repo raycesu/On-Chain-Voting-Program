@@ -1,2 +1,5 @@
-# Build output, dependencies, and local keypairs.
-# Filled in when the program is implemented.
+/target
+**/*.rs.bk
+.anchor
+test-ledger
+.DS_Store

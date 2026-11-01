@@ -1,2 +1,3 @@
-# Pins the Rust toolchain used to build the voting program.
-# Filled in when the program is implemented.
+[toolchain]
+channel = "1.96"
+components = ["rustfmt", "clippy", "rust-src"]
